@@ -1,4 +1,4 @@
-# Timeline
+# 時系列
 
 ## Contract signing
 - Date: YYYY-MM-DD
