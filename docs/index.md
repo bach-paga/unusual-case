@@ -1,9 +1,6 @@
-# Overview
+# 一級建築設計事務所A との経緯
 
-This site documents a contractual process that followed an unusual course.
+時系列で公開します
 
-The purpose of this record is to organize factual events in chronological order,
-without evaluation or commentary.
-
-This content is provided for informational purposes only.
+施主の記録・記憶によるものです。
 
