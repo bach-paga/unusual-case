@@ -1,4 +1,4 @@
-# Documents
+# ドキュメント
 
 The following documents are referenced in this record.
 

@@ -2,10 +2,10 @@ site_name: Unusual Case
 site_description: A factual record of an unusual contractual process
 
 nav:
-  - Overview: index.md
-  - Timeline: timeline.md
-  - Documents: documents.md
-  - Notes: notes.md
+  - 概要: index.md
+  - 時系列: timeline.md
+  - ドキュメント: documents.md
+  - 備考: notes.md
 
 theme:
   name: mkdocs
