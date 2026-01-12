@@ -1,4 +1,4 @@
-# Notes
+# 備考
 
 This section contains factual notes and observations related to the case.
 
